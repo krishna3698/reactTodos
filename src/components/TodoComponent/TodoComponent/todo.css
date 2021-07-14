@@ -1,0 +1,34 @@
+.todo{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 5px 0 5px #ccc;
+}
+
+input{
+    margin: 5px;
+    padding: 5px;
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.addBtn{
+    color: whitesmoke;
+    height: 35px;
+    width: 100px;
+    background-color: gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.updateBtn{
+    background-color: slategrey;
+    color: whitesmoke;
+    height: 35px;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25px;
+}
